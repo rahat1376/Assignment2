@@ -343,6 +343,14 @@ footer{
         grid-template-columns: repeat(3, 1fr);
         gap: 10px; 
     }
-
+    .foot-head,
+    .foot-icon
+    {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .small-pic{
+        right: 150px;
+    }
     
 }
