@@ -245,7 +245,7 @@ footer{
     margin: 30px 0px;
 }
 .foot{
-    padding: 30px 300px;
+    padding: 80px 300px;
 }
 .foot-head{
     display: flex;
@@ -262,6 +262,7 @@ footer{
     justify-content: space-evenly;
     gap: 10px;
     padding-top: 30px;
+    font-size: 30px;
 }
 .foot-dec p{
     color: rgba(255, 255, 255, 0.60);
