@@ -356,4 +356,9 @@ footer{
     .foot{
         padding: 70px 0px;
     }
+    .play-img img{
+        width: 350px;
+        height: 370px;
+        padding: 0px;
+    }
 }
