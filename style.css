@@ -353,5 +353,7 @@ footer{
     .small-pic{
         right: 150px;
     }
-    
+    .foot{
+        padding: 70px 0px;
+    }
 }
